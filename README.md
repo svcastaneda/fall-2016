@@ -2,9 +2,9 @@ Click on a week for details about the activities for that week. Future weeks wil
 
 # This Week
 
-Week                      | Starts            | Ends             | General Topics
----                       | ---               | ---              | ---
-[Week 1](todos/week-1.md) | Mon, 2016-10-24   | Sun, 2016-10-30  | Introductions, logistics, community assessment
+Week                      | Starts            | Ends             | General Topics                                   | :movie_camera:
+---                       | ---               | ---              | ---                                              | ---
+[Week 1](todos/week-1.md) | Mon, 2016-10-24   | Sun, 2016-10-30  | Introductions, logistics, community assessment   | [Americas](https://vimeo.com/188925293/e098c983fc)
 
 ### Coming Up
 
